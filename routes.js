@@ -21,7 +21,7 @@ export default new Router()
       remove_origin_response_headers: ['set-cookie', 'cache-control', 'content-security-policy', 'content-security-policy-report-only', 'strict-transport-security', 'pragma'],
     },
     origin: {
-      set_origin: 'origin',
+      set_origin: 'web',
     },
   })
 
