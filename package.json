@@ -1,0 +1,27 @@
+{
+  "name": "adaptiveus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/limelight-networks/layer0/pie/adaptiveus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/limelight-networks/layer0/pie/adaptiveus/issues"
+  },
+  "homepage": "https://gitlab.com/limelight-networks/layer0/pie/adaptiveus#readme",
+  "devDependencies": {
+    "@edgio/cli": "^7.11.3",
+    "@edgio/core": "^7.11.3",
+    "@edgio/devtools": "^7.11.3",
+    "@edgio/prefetch": "^7.11.3",
+    "@edgio/starter": "^7.11.3"
+  }
+}
